@@ -1,0 +1,59 @@
+{
+  "movies": [
+    {
+      "title": {
+        "en": "Movies",
+        "ar": "أفلام"
+      },
+      "description": {
+        "en": "The latest and most popular movies from all genres and countries.",
+        "ar": "أحدث وأشهر الأفلام من جميع الأنواع والبلدان."
+      },
+      "path": "Movies/Movies.json"
+    },
+    {
+      "title": {
+        "en": "Series",
+        "ar": "مسلسلات"
+      },
+      "description": {
+        "en": "Top-rated TV series and web shows with multiple seasons and episodes.",
+        "ar": "أفضل المسلسلات التلفزيونية والعروض على الإنترنت بعدة مواسم وحلقات."
+      },
+      "path": "Series/Series.json"
+    },
+    {
+      "title": {
+        "en": "Anime",
+        "ar": "أنمي"
+      },
+      "description": {
+        "en": "Animated shows and movies from Japan and around the world.",
+        "ar": "عروض وأفلام أنمي من اليابان ومختلف أنحاء العالم."
+      },
+      "path": "Anime/index.json"
+    },
+    {
+      "title": {
+        "en": "Theatrical",
+        "ar": "مسرحيات"
+      },
+      "description": {
+        "en": "Classic and modern plays from Arab and international theatre.",
+        "ar": "مسرحيات كلاسيكية وحديثة من المسرح العربي والعالمي."
+      },
+      "path": "Theatrical/index.json"
+    },
+    {
+      "title": {
+        "en": "Wrestling",
+        "ar": "مصارعة"
+      },
+      "description": {
+        "en": "Professional wrestling shows, matches, and events from around the world.",
+        "ar": "عروض ومباريات المصارعة المحترفة من جميع أنحاء العالم."
+      },
+      "path": "Wrestling/index.json"
+    }
+  ]
+}
