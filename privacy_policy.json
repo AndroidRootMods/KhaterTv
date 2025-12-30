@@ -1,59 +1,92 @@
 {
-  "movies": [
-    {
-      "title": {
-        "en": "Movies",
-        "ar": "أفلام"
+  "ar": {
+    "title": "سياسة الخصوصية",
+    "content": [
+      {
+        "header": "مقدمة",
+        "text": "نحن في تطبيق HorizonPlus نحترم خصوصية المستخدمين ونلتزم بحماية بياناتهم الشخصية. توضح سياسة الخصوصية هذه كيفية جمع المعلومات واستخدامها وحمايتها عند استخدامك للتطبيق."
       },
-      "description": {
-        "en": "The latest and most popular movies from all genres and countries.",
-        "ar": "أحدث وأشهر الأفلام من جميع الأنواع والبلدان."
+      {
+        "header": "المعلومات التي نقوم بجمعها",
+        "text": "قد نقوم بجمع معلومات غير شخصية مثل نوع الجهاز ونظام التشغيل واللغة وبيانات الاستخدام العامة بهدف تحسين أداء التطبيق. نحن لا نقوم بجمع أي معلومات شخصية مباشرة مثل الاسم أو رقم الهاتف أو البريد الإلكتروني إلا في حال تم طلبها صراحة وبموافقة المستخدم."
       },
-      "path": "Movies/Movies.json"
-    },
-    {
-      "title": {
-        "en": "Series",
-        "ar": "مسلسلات"
+      {
+        "header": "كيفية استخدام المعلومات",
+        "text": "يتم استخدام المعلومات التي يتم جمعها لتحسين تجربة المستخدم، تطوير الميزات، تحليل الأداء، ومعالجة الأخطاء والمشاكل التقنية."
       },
-      "description": {
-        "en": "Top-rated TV series and web shows with multiple seasons and episodes.",
-        "ar": "أفضل المسلسلات التلفزيونية والعروض على الإنترنت بعدة مواسم وحلقات."
+      {
+        "header": "مشاركة المعلومات",
+        "text": "نحن لا نبيع أو نشارك معلومات المستخدمين مع أي أطراف خارجية، إلا في حال كان ذلك مطلوبا للامتثال للقوانين أو لحماية حقوق التطبيق أو المستخدمين، أو من خلال مزودي خدمات موثوقين وبما يتوافق مع هذه السياسة."
       },
-      "path": "Series/Series.json"
-    },
-    {
-      "title": {
-        "en": "Anime",
-        "ar": "أنمي"
+      {
+        "header": "خدمات الطرف الثالث",
+        "text": "قد يستخدم التطبيق خدمات خارجية مثل Firebase أو خدمات استضافة المحتوى أو أدوات التحليل. تخضع هذه الخدمات لسياسات الخصوصية الخاصة بها، ونحن لا نتحكم بشكل مباشر في كيفية إدارتها للبيانات."
       },
-      "description": {
-        "en": "Animated shows and movies from Japan and around the world.",
-        "ar": "عروض وأفلام أنمي من اليابان ومختلف أنحاء العالم."
+      {
+        "header": "أمان المعلومات",
+        "text": "نحن نتخذ إجراءات أمنية مناسبة لحماية المعلومات من الوصول غير المصرح به أو التعديل أو الإفصاح أو الفقدان، مع العلم أنه لا يمكن ضمان أمان أي نظام بشكل كامل."
       },
-      "path": "Anime/index.json"
-    },
-    {
-      "title": {
-        "en": "Theatrical",
-        "ar": "مسرحيات"
+      {
+        "header": "خصوصية الأطفال",
+        "text": "تطبيق HorizonPlus غير موجه للأطفال دون سن 13 عاما، ونحن لا نجمع عن قصد أي معلومات شخصية تتعلق بالأطفال."
       },
-      "description": {
-        "en": "Classic and modern plays from Arab and international theatre.",
-        "ar": "مسرحيات كلاسيكية وحديثة من المسرح العربي والعالمي."
+      {
+        "header": "حقوق المستخدم",
+        "text": "يحق للمستخدم معرفة كيفية استخدام بياناته وطلب حذف أي بيانات تم جمعها إن وجدت، كما يمكنه التوقف عن استخدام التطبيق في أي وقت."
       },
-      "path": "Theatrical/index.json"
-    },
-    {
-      "title": {
-        "en": "Wrestling",
-        "ar": "مصارعة"
+      {
+        "header": "التغييرات على سياسة الخصوصية",
+        "text": "قد نقوم بتحديث سياسة الخصوصية من وقت لآخر. سيتم نشر أي تحديثات داخل التطبيق أو على هذه الصفحة، ويعتبر استمرار استخدام التطبيق موافقة على التعديلات."
       },
-      "description": {
-        "en": "Professional wrestling shows, matches, and events from around the world.",
-        "ar": "عروض ومباريات المصارعة المحترفة من جميع أنحاء العالم."
+      {
+        "header": "التواصل معنا",
+        "text": "في حال وجود أي استفسارات أو ملاحظات بخصوص سياسة الخصوصية، يمكن التواصل معنا عبر القنوات الرسمية الخاصة بالتطبيق."
+      }
+    ]
+  },
+  "en": {
+    "title": "Privacy Policy",
+    "content": [
+      {
+        "header": "Introduction",
+        "text": "At HorizonPlus, we respect users' privacy and are committed to protecting their personal information. This Privacy Policy explains how information is collected, used, and protected when using the application."
       },
-      "path": "Wrestling/index.json"
-    }
-  ]
+      {
+        "header": "Information We Collect",
+        "text": "We may collect non-personal information such as device type, operating system, language, and general usage data to improve the application. We do not collect personal information such as name, phone number, or email address unless explicitly provided with user consent."
+      },
+      {
+        "header": "How We Use Information",
+        "text": "Collected information is used to improve user experience, develop features, analyze performance, and resolve technical issues."
+      },
+      {
+        "header": "Information Sharing",
+        "text": "We do not sell or share user information with third parties except when required by law, to protect the rights of the application or users, or through trusted service providers in accordance with this policy."
+      },
+      {
+        "header": "Third-Party Services",
+        "text": "The application may use third-party services such as Firebase, hosting providers, or analytics tools. These services are governed by their own privacy policies."
+      },
+      {
+        "header": "Data Security",
+        "text": "We implement appropriate security measures to protect information from unauthorized access, alteration, disclosure, or loss. However, no system can be guaranteed to be completely secure."
+      },
+      {
+        "header": "Children's Privacy",
+        "text": "HorizonPlus is not intended for children under the age of 13, and we do not knowingly collect personal information from children."
+      },
+      {
+        "header": "User Rights",
+        "text": "Users have the right to understand how their data is used and may request deletion of collected data if applicable. Users may stop using the application at any time."
+      },
+      {
+        "header": "Changes to This Policy",
+        "text": "We may update this Privacy Policy from time to time. Any changes will be posted within the application or on this page."
+      },
+      {
+        "header": "Contact Us",
+        "text": "If you have any questions or concerns regarding this Privacy Policy, please contact us through the official channels of the application."
+      }
+    ]
+  }
 }
